@@ -1,5 +1,5 @@
 ---
-title: "My fist post
+title: "My fist post"
 date: 2020-12-23
 ---
 
